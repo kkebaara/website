@@ -1,0 +1,28 @@
+	* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-image: url("images/logo3.png");
+  background-repeat: repeat;
+  color: #33CCFF;
+  -webkit-text-stroke: 1px red;
+  height: 100%;
+
+}
+
+section {
+	background: white;
+	word-wrap: 
+	float: middle;
+  	width: 33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  	position: fixed;
+    height: 100%;
+ 
+}
+
+a {
+  text-decoration: none;
+}
+
